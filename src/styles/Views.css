@@ -1,0 +1,17 @@
+.views {
+  display: block;
+  float: right;
+  color: #e2e2e2;
+  user-select: none;
+  overflow: hidden;
+}
+
+.views-counter {
+  float: left;
+  margin: 1px 8px;
+  display: block;
+}
+
+.views-icon {
+  float: left;
+}
